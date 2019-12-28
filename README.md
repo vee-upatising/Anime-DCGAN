@@ -11,6 +11,12 @@ Generating Anime Faces with Deep Convolutional Generative Adversarial Networks u
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk10.gif)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk3.gif)
 
+# Discriminator Model
+![disc](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/discriminator.JPG)
+# Generator Model
+![gen](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/generator.JPG)
+# Training
+![training](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/training.gif)
 
 # Results
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/image_101037.png)
@@ -29,3 +35,7 @@ Generating Anime Faces with Deep Convolutional Generative Adversarial Networks u
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/image_66887.png)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/image_80884.png)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/image_9288.png)
+
+
+
+# [Vjew Notebook](https://nbviewer.jupyter.org/github/vee-upatising/Anime-DCGAN/blob/master/Anime%20DCGAN.ipynb)
