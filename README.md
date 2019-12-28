@@ -5,7 +5,6 @@ Generating Anime Faces with Deep Convolutional Generative Adversarial Networks u
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk1.gif)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk2.gif)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk3.gif)
-![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk4.gif)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk5.gif)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk6.gif)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk7.gif)
