@@ -1,6 +1,19 @@
 # Anime-DCGAN
 Generating Anime Faces with Deep Convolutional Generative Adversarial Networks using [dataset](https://www.kaggle.com/soumikrakshit/anime-faces) from Kaggle
 
+# Random Walk Through Latent Space of Generator
+![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk1.gif)
+![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk2.gif)
+![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk3.gif)
+![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk4.gif)
+![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk5.gif)
+![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk6.gif)
+![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk7.gif)
+![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk8.gif)
+![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk9.gif)
+![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk10.gif)
+
+
 # Results
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/image_101037.png)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/image_108400.png)
