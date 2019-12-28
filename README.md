@@ -1,6 +1,6 @@
 # Anime-DCGAN
-Generating Anime Faces with Deep Convolutional Generative Adversarial Networks using [dataset](https://www.kaggle.com/soumikrakshit/anime-faces) from Kaggle
-
+Generating Anime Faces with Deep Convolutional Generative Adversarial Networks using this [dataset from Kaggle
+](https://www.kaggle.com/soumikrakshit/anime-faces)
 # Random Walk Through Latent Space of Generator
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk1.gif)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk5.gif)
@@ -13,8 +13,10 @@ Generating Anime Faces with Deep Convolutional Generative Adversarial Networks u
 
 # Discriminator Model
 ![disc](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/discriminator.JPG)
+
 # Generator Model
 ![gen](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/generator.JPG)
+
 # Training
 ![training](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/training.gif)
 
@@ -38,4 +40,4 @@ Generating Anime Faces with Deep Convolutional Generative Adversarial Networks u
 
 
 
-# [Vjew Notebook](https://nbviewer.jupyter.org/github/vee-upatising/Anime-DCGAN/blob/master/Anime%20DCGAN.ipynb)
+# [View Notebook](https://nbviewer.jupyter.org/github/vee-upatising/Anime-DCGAN/blob/master/Anime%20DCGAN.ipynb)
