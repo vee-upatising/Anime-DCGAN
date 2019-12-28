@@ -11,11 +11,11 @@ Generating Anime Faces with Deep Convolutional Generative Adversarial Networks u
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk10.gif)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk3.gif)
 
-# Discriminator Model
-![disc](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/discriminator.JPG)
-
 # Generator Model
 ![gen](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/generator.JPG)
+
+# Discriminator Model
+![disc](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/discriminator.JPG)
 
 # Training
 ![training](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/training.gif)
