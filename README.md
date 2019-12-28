@@ -40,4 +40,6 @@ Generating Anime Faces with Deep Convolutional Generative Adversarial Networks u
 
 
 
-# [View Notebook](https://nbviewer.jupyter.org/github/vee-upatising/Anime-DCGAN/blob/master/Anime%20DCGAN.ipynb)
+# [View Jupyter Notebook](https://nbviewer.jupyter.org/github/vee-upatising/Anime-DCGAN/blob/master/Anime%20DCGAN.ipynb)
+
+# [View Kaggle Notebook](https://www.kaggle.com/function9/anime-dcgan-with-keras)
