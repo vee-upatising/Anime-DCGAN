@@ -3,13 +3,13 @@ Generating Anime Faces with Deep Convolutional Generative Adversarial Networks u
 
 # Random Walk Through Latent Space of Generator
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk1.gif)
-![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk3.gif)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk5.gif)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk6.gif)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk7.gif)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk8.gif)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk9.gif)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk10.gif)
+![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk3.gif)
 
 
 # Results
