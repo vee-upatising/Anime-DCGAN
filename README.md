@@ -2,7 +2,7 @@
 Generating Anime Faces with Deep Convolutional Generative Adversarial Networks using this [dataset from Kaggle
 ](https://www.kaggle.com/soumikrakshit/anime-faces)
 
-# Samples Between Interpolated Points
+# Sampling Between Interpolated Points
 ![samples](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/perfectloop.gif)
 
 # Generator Model
