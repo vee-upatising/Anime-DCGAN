@@ -3,7 +3,7 @@ Generating Anime Faces with Deep Convolutional Generative Adversarial Networks u
 ](https://www.kaggle.com/soumikrakshit/anime-faces)
 
 # Sampling Between Interpolated Points
-![sample1](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/perfectloop.gif)
+![sample1](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/perfectloop1.gif)
 ![sample2](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/perfectloop2.gif)
 ![sample3](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/perfectloop3.gif)
 
