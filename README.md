@@ -7,15 +7,6 @@ Generating Anime Faces with Deep Convolutional Generative Adversarial Networks u
 ![sample2](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/perfectloop2.gif)
 ![sample3](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/perfectloop3.gif)
 
-# Generator Model
-![gen](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/generator.JPG)
-
-# Discriminator Model
-![disc](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/discriminator.JPG)
-
-# Training
-![training](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/training.gif)
-
 # Results
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/image_101037.png)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/image_108400.png)
@@ -33,6 +24,15 @@ Generating Anime Faces with Deep Convolutional Generative Adversarial Networks u
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/image_66887.png)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/image_80884.png)
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/image_9288.png)
+
+# Generator Model
+![gen](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/generator.JPG)
+
+# Discriminator Model
+![disc](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/discriminator.JPG)
+
+# Training
+![training](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/training.gif)
 
 # Random Walk Through Latent Space of Generator
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/walk1.gif)
