@@ -6,7 +6,7 @@ Generating Anime Faces with Deep Convolutional Generative Adversarial Networks u
 ![sample1](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/perfectloop1.gif)
 ![sample2](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/perfectloop2.gif)
 ![sample3](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/perfectloop3.gif)
-![sample3](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/perfectloop4.gif)
+![sample4](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/perfectloop4.gif)
 
 # Results
 ![pic](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/image_101037.png)
