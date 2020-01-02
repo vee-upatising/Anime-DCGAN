@@ -4,6 +4,7 @@ Generating Anime Faces with Deep Convolutional Generative Adversarial Networks u
 
 # Sampling Between Interpolated Points
 ![samples](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/results/perfectloop.gif)
+![Imgur](https://i.imgur.com/EA4bnNw.gifv)
 
 # Generator Model
 ![gen](https://raw.githubusercontent.com/vee-upatising/Anime-DCGAN/master/generator.JPG)
