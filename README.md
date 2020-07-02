@@ -1,4 +1,5 @@
 # Anime-DCGAN
+[INTERACTIVE WEB APPLICATION](https://vee-upatising.github.io/gan.html)<br>
 Generating Anime Faces with Deep Convolutional Generative Adversarial Networks using this [dataset from Kaggle
 ](https://www.kaggle.com/soumikrakshit/anime-faces)
 
