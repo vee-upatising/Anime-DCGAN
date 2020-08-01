@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Anime-DCGAN/precache-manifest.6c6594aa9f76fabf659e7fd9cfa91f2d.js"
+  "/Anime-DCGAN/precache-manifest.45df4e598d63ff81fd49d1d4ce5025f4.js"
 );
 
 self.addEventListener('message', (event) => {
