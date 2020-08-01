@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/gh-pages/static/css/main.5f361e03.chunk.css",
-    "main.js": "/gh-pages/static/js/main.c2f42cec.chunk.js",
-    "main.js.map": "/gh-pages/static/js/main.c2f42cec.chunk.js.map",
-    "runtime-main.js": "/gh-pages/static/js/runtime-main.a952cc00.js",
-    "runtime-main.js.map": "/gh-pages/static/js/runtime-main.a952cc00.js.map",
-    "static/css/2.bb4ba17c.chunk.css": "/gh-pages/static/css/2.bb4ba17c.chunk.css",
-    "static/js/2.5d5dff1b.chunk.js": "/gh-pages/static/js/2.5d5dff1b.chunk.js",
-    "static/js/2.5d5dff1b.chunk.js.map": "/gh-pages/static/js/2.5d5dff1b.chunk.js.map",
-    "index.html": "/gh-pages/index.html",
-    "precache-manifest.cbf63782c6d745d518c42af656c833e5.js": "/gh-pages/precache-manifest.cbf63782c6d745d518c42af656c833e5.js",
-    "service-worker.js": "/gh-pages/service-worker.js",
-    "static/css/2.bb4ba17c.chunk.css.map": "/gh-pages/static/css/2.bb4ba17c.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/gh-pages/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5d5dff1b.chunk.js.LICENSE.txt": "/gh-pages/static/js/2.5d5dff1b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/gh-pages/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Anime-DCGAN/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Anime-DCGAN/static/js/main.5c250f3e.chunk.js",
+    "main.js.map": "/Anime-DCGAN/static/js/main.5c250f3e.chunk.js.map",
+    "runtime-main.js": "/Anime-DCGAN/static/js/runtime-main.9645cd5a.js",
+    "runtime-main.js.map": "/Anime-DCGAN/static/js/runtime-main.9645cd5a.js.map",
+    "static/css/2.bb4ba17c.chunk.css": "/Anime-DCGAN/static/css/2.bb4ba17c.chunk.css",
+    "static/js/2.d88e802d.chunk.js": "/Anime-DCGAN/static/js/2.d88e802d.chunk.js",
+    "static/js/2.d88e802d.chunk.js.map": "/Anime-DCGAN/static/js/2.d88e802d.chunk.js.map",
+    "index.html": "/Anime-DCGAN/index.html",
+    "precache-manifest.dc33d22970758cf90d36f854b9bfb454.js": "/Anime-DCGAN/precache-manifest.dc33d22970758cf90d36f854b9bfb454.js",
+    "service-worker.js": "/Anime-DCGAN/service-worker.js",
+    "static/css/2.bb4ba17c.chunk.css.map": "/Anime-DCGAN/static/css/2.bb4ba17c.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Anime-DCGAN/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d88e802d.chunk.js.LICENSE.txt": "/Anime-DCGAN/static/js/2.d88e802d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Anime-DCGAN/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a952cc00.js",
+    "static/js/runtime-main.9645cd5a.js",
     "static/css/2.bb4ba17c.chunk.css",
-    "static/js/2.5d5dff1b.chunk.js",
+    "static/js/2.d88e802d.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c2f42cec.chunk.js"
+    "static/js/main.5c250f3e.chunk.js"
   ]
 }
